@@ -1,4 +1,4 @@
-<h1>Olá, sou o Kayann!!!</h1><br>
+<h1 align="center"> Olá, sou o Kayann!!!</h1><br>
 <br>
 
 📗 Estudante de matemática aplicada (UFAM)<br>
